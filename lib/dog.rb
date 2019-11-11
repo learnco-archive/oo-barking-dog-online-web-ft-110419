@@ -1,7 +1,7 @@
 # Your code goes here!
 class Dog
-  name=(dog_name)
-    @dog_name = dog_name
+  name=(n)
+    @dog_name = n
   end
 
   name
