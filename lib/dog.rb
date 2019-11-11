@@ -5,6 +5,6 @@ class Dog
   end
 
   name
-   @name
+    @name
   end
 end
