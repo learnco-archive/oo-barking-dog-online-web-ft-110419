@@ -1,10 +1,10 @@
 # Your code goes here!
 class Dog
-  name=(n)
-    @dog_name = n
+  def name=(dog_name)
+    @dog_name = dog_name
   end
 
-  name
+  def name
     @dog_name
   end
 end
